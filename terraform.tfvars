@@ -1,4 +1,4 @@
 
 region       = "nyc1"
-do_token     = "dop_v1_64ef465e6325d05e2b7f46fcd62255d890c903580ebc83ecf836a338b0de43e4"
+do_token     = "dop_v1_67cbb24d233d11aa35d18dcaa9bd1ab7603b657130cfa8a661747acb8c91501f"
 ssh_key_name = "terraform"
